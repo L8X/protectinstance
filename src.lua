@@ -1,3 +1,4 @@
+-- test
 local ProtectedInstances = {};
 local Connections = getconnections or get_connections;
 local HookFunction = HookFunction or hookfunction or hook_function or hookfunc or hook_func or detourfunction or detour_function;
