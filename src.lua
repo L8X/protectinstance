@@ -36,10 +36,10 @@ local TableInstanceMethods = {
     children = game.children,
 }
 local FindInstanceMethods = {
-    FindFirstAncestor = game.FindFirstAncestor
-    FindFirstAncestorOfClass = game.FindFirstAncestorOfClass
-    FindFirstAncestorWhichIsA = game.FindFirstAncestorWhichIsA
-    FindFirstDescendant = game.FindFirstDescendant
+    FindFirstAncestor = game.FindFirstAncestor,
+    FindFirstAncestorOfClass = game.FindFirstAncestorOfClass,
+    FindFirstAncestorWhichIsA = game.FindFirstAncestorWhichIsA,
+    FindFirstDescendant = game.FindFirstDescendant,
     FindFirstChild = game.FindFirstChild,
     FindFirstChildWhichIsA = game.FindFirstChildWhichIsA,
     FindFirstChildOfClass = game.FindFirstChildOfClass,
